@@ -7,16 +7,16 @@
 
 ### 기능 설명
 #### 손님 수 입력
-![image](https://user-images.githubusercontent.com/77527453/124612751-8ced4300-dead-11eb-92ff-ebbcd6c71a33.png){: width="300" height="100"}
+![image](https://user-images.githubusercontent.com/77527453/124612751-8ced4300-dead-11eb-92ff-ebbcd6c71a33.png)
 
 #### 손님 입장
-![image](https://user-images.githubusercontent.com/77527453/124613103-dccc0a00-dead-11eb-802b-7a03e90afc1b.png){: width="300" height="200"}
+![image](https://user-images.githubusercontent.com/77527453/124613103-dccc0a00-dead-11eb-802b-7a03e90afc1b.png)
 
 #### 손님 퇴장
-![image](https://user-images.githubusercontent.com/77527453/124613186-ef464380-dead-11eb-82f1-1db5a232bcfc.png){: width="300" height="200"}
+![image](https://user-images.githubusercontent.com/77527453/124613186-ef464380-dead-11eb-82f1-1db5a232bcfc.png)
 
 #### 영업 마감
-![image](https://user-images.githubusercontent.com/77527453/124613249-fe2cf600-dead-11eb-81e1-d0db992f7a0b.png){: width="300" height="200"}
+![image](https://user-images.githubusercontent.com/77527453/124613249-fe2cf600-dead-11eb-81e1-d0db992f7a0b.png)
 
 
 
